@@ -1,0 +1,12 @@
+body {background-color:yellow;}
+font-family: 'Bodoni Moda', serif;
+font-family: 'Inconsolata', monospace;
+font-family: 'Roboto', sans-serif;
+font-family: 'Yusei Magic', sans-serif;
+h1 {color:#9e2ec7;font-family:'Yusei Magic', serif;}
+p {color:black;}
+h2 {
+    color:green;font-family: 'Roboto', sans-serif; text-decoration: underline overline;
+}
+p.classforklaring {color: red;}
+#classforklaring{color:blueviolet;}
